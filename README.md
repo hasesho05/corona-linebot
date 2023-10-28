@@ -1,4 +1,4 @@
-# sam-ca-05-assignment
+
 
 This is a sample template for sam-ca-05-assignment - Below is a brief explanation of what we have generated for you:
 
